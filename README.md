@@ -4,7 +4,8 @@ I'm currently pursuing a Bachelor's degree in Informatics at Mulawarman Universi
 
 ## College Projects
 - [Web Application Project](https://github.com/wildanahsirad/wildanahsirad.github.io): A web application as a Web Programming practicum assignment using HTML, CSS, JavaScript, and PHP.
-- [Novel Data System](https://github.com/wildanahsirad/Praktikum-PBO-2024): Implementation of a novel data system as an Object-Oriented Programming (OOP) practicum assignment using C++ with features to add data, view data, update data, delete data, and exit the program.
+- [Novel Data System](https://github.com/wildanahsirad/Praktikum-PBO-2024): Implementation of a novel data system as an Object-Oriented Programming (OOP) practicum assignment using Java. It includes features to add, view, update, and delete novel data, as well as an option to exit the program.
+
 
 ## Skills
 - **Programming:** Python, C++, Java, JavaScript
